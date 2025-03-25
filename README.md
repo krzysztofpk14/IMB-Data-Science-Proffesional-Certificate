@@ -65,5 +65,3 @@ The Capstone Project is the final course in the IBM Data Science Professional Ce
    - This notebook involves building a machine learning pipeline to predict the success of SpaceX Falcon 9 first stage landings. It includes data preprocessing, model training, evaluation, and visualization of the results.
 
 These notebooks collectively document the entire process of the Capstone Project, from data collection and cleaning to analysis, visualization, and machine learning model development.
-
-...existing code...
